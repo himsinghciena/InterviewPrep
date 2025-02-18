@@ -1,4 +1,4 @@
-package personal.practice.ratelimitor;
+package personal.practice.atlassian.ratelimitor;
 
 /*
 import redis.clients.jedis.Jedis;

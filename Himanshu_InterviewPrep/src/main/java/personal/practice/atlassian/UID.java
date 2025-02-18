@@ -1,4 +1,4 @@
-package personal.practice;
+package personal.practice.atlassian;
 
 import java.util.UUID;
 

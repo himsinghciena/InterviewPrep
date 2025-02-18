@@ -1,4 +1,4 @@
-package personal.practice.ratelimitor;
+package personal.practice.atlassian.ratelimitor;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;

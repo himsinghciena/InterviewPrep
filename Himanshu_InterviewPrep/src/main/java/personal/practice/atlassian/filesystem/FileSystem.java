@@ -1,4 +1,4 @@
-package personal.practice.filesystem;
+package personal.practice.atlassian.filesystem;
 
 import java.util.HashMap;
 import java.util.Map;
