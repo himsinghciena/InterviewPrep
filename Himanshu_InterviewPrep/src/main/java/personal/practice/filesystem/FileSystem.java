@@ -1,4 +1,4 @@
-package personal.practice.FileSystem;
+package personal.practice.filesystem;
 
 import java.util.HashMap;
 import java.util.Map;
